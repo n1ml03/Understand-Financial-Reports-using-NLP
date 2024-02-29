@@ -51,8 +51,3 @@ python3 HTML_Parser.py [name of the .txt or .html file]
 python3 parserExtractor.py [name of the .txt or .html file]
 ```
 The output of the table-extractor script will be saved in the sample output folder.
-
-## Authors:
-
-[Tarun Sudhams](https://github.com/sudhamstarun)
-[Varun Vamsi](https://github.com/Varunvamsi)
